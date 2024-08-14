@@ -13,11 +13,12 @@ The try-catch block is used to catch any exceptions that occur when converting t
 This exercise is a basic assignment to practice the use of try-catch in C# for handling exceptions and ensuring the program continues to run smoothly despite invalid user inputs.
 
 ## Example
-perl
+
 Bir sayı giriniz: abc
 Geçersiz giriş! Lütfen bir sayı giriniz.
 Bir sayı giriniz: 5
 Girdiğiniz sayının karesi : 25
+
 
 ## Requirements
 .NET Core or .NET Framework for compiling and running the C# application.

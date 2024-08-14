@@ -14,10 +14,10 @@ This exercise is a basic assignment to practice the use of try-catch in C# for h
 
 ## Example
 
-'Bir sayı giriniz: abc
-Geçersiz giriş! Lütfen bir sayı giriniz.
-Bir sayı giriniz: 5
-Girdiğiniz sayının karesi : 25'
+'Bir sayı giriniz: abc'
+'Geçersiz giriş! Lütfen bir sayı giriniz.'
+'Bir sayı giriniz: 5'
+'Girdiğiniz sayının karesi : 25'
 
 
 ## Requirements
